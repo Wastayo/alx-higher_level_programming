@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": "c:/Users/OMOTAYO/OneDrive/Desktop/continued alx file/my c tutorial class/alx-higher_level_programming/0x00-python-hello_world",
+      "program": "c:/Users/OMOTAYO/OneDrive/Desktop/continued alx file/my c tutorial class/alx-higher_level_programming/0x00-python-hello_world/build/Debug/outDebug"
+    }
+  ]
+}
